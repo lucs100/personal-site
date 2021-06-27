@@ -32,6 +32,12 @@ footer {
     font-size: 64px;
 }
 
+#githubButton:hover {
+    color: rgb(0, 225, 255);
+    border-color: rgb(0, 225, 255);
+    transition: color 0.5s, border 1s;
+}
+
 #final {
     text-align: center;
     align-items: center;
