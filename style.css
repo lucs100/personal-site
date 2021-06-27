@@ -17,6 +17,10 @@ footer {
     margin-left: 10px;
 }
 
+#disclaimer {
+    font-size: 20px
+}
+
 #githubButton {
     border-radius: 15px;
     border-width: 3px;
