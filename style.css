@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(to bottom, rgb(0, 25, 35), rgb(104, 104, 103));
+    color:rgb(127, 255, 77);
+    font-family: 'Source Code Pro', monospace;
+}
+
+footer {
+    opacity: 80%;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    border-radius: 10px;
+    background:linear-gradient(to bottom right, rgba(255, 105, 180, 0.2), rgba(0, 217, 255, 0.2));
+    width: 610px;
+    padding: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+#githubButton {
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: rgb(228, 93, 31);
+    width: auto;
+    font-family: 'Source Code Pro', monospace;
+    color:rgb(127, 255, 77);
+    background: linear-gradient(to bottom right, rgb(49, 78, 4), green);
+    font-size: 64px;
+}
+
+#final {
+    text-align: center;
+    align-items: center;
+}
+
+#blurb {
+    font-size: xx-large;
+    font-weight: 700;
+    /* test */
+}
+
+#paraleft {
+    margin-left: 30px;
+}
+
+#gp1 {
+    float:right;
+    margin-top: -280px;
+    margin-right: 100px;
+}
+
+#pararight {
+    text-align: right;
+    margin-right: 30px;
+    padding-top: 100px;
+}
+
+#gp2 {
+    float:left;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 25px;
+    border: 3px solid rgb(127, 255, 77);;
+    border-style: dotted;
+}
